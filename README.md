@@ -3,7 +3,7 @@
 Usually tinkering with:
 
 - 🌐️ [`@jeromefitz/websites`](https://github.com/JeromeFitz/websites)
-  - Monorepo (▲ turbo + next) for [`jeromefitzgerald.com`](https://jeromefitzgerald.com)
+  - Monorepo (▲ turbo + ▲ next + notion) for [`jeromefitzgerald.com`](https://jeromefitzgerald.com)
 - 📦️ [`@jeromefitz/packages`](https://github.com/JeromeFitz/packages)
   - Monorepo (▲ turbo + tsup) for things I use to create the above website like `@jeromefitz/notion`
 - 💽️ [`@jeromefitz/dotfiles`](https://github.com/JeromeFitz/dotfiles)
