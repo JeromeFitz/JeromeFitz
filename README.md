@@ -1,6 +1,6 @@
 ### Hello, my name is Jerome Fitzgerald (he/him).
 
-> `/juh-ROHM fits+JERR-uhld/`
+> `/juh-ROHM fits-JERR-uhld/`
 
 #### Linking:
 
