@@ -11,9 +11,9 @@
 
 #### Tinkering:
 
-🌐️ [`@jeromefitz/websites`](https://github.com/JeromeFitz/websites) | 
-📦️ [`@jeromefitz/packages`](https://github.com/JeromeFitz/packages) | 
-💽️ [`@jeromefitz/dotfiles`](https://github.com/JeromeFitz/dotfiles)
+🌐️ [`websites`](https://github.com/JeromeFitz/websites) | 
+📦️ [`packages`](https://github.com/JeromeFitz/packages) | 
+💽️ [`dotfiles`](https://github.com/JeromeFitz/dotfiles)
 
 #### Partying:
 
